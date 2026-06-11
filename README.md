@@ -42,7 +42,7 @@ All rendered on layered HTML5 canvases with a neon aesthetic.
 ```bash
 # No install needed — just open the file
 start index.html   # Windows
-open index.html    # macOS
+open link    # macOS
 ```
 
 Or drag `index.html` into **Chrome** or **Edge** and allow camera access.
