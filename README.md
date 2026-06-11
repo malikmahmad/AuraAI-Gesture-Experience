@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Demo](https://img.shields.io/badge/▶%20Live%20Demo-Open%20index.html-7cffc4?style=for-the-badge&labelColor=03020a)](https://malikmahmad.github.io/AuraAI-Gesture-Experience/)
+[![Demo](https://img.shields.io/badge/▶%20Live%20Demo-Open%20AuraAI-7cffc4?style=for-the-badge&labelColor=03020a)](https://malikmahmad.github.io/AuraAI-Gesture-Experience/)
 
 </div>
 
