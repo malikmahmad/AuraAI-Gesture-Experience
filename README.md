@@ -137,7 +137,7 @@ aura-ai/
 
 <div align="center">
 
-**Built with 🩶 by Malik Muhammad Ahmad Dev**
+**Built with 🩶 by Malik Muhammad Ahmad Developer**
 
 </div>
 
